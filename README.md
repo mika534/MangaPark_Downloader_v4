@@ -1,9 +1,11 @@
 MangaPark Downloader v4
 ========================
 Autor: Mika534
+
 Senior Developer: ChatGPT, Claude AI
+
 Version: 4.3.6
-========================
+
 
 Kurzbeschreibung
 ----------------
